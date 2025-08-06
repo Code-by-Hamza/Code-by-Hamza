@@ -32,19 +32,15 @@ Welcome to my GitHub profile! I'm a passionate self-taught Python developer, bui
 
 ![black-terminal](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-**Tech:** Python (no libraries)
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-by-Hamza&show_icons=true&theme=tokyonight" alt="stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-by-Hamza&theme=tokyonight" alt="streak"/>
 </p>
-
-Replace `Code-by-Hamza` with your actual GitHub username after creating the repo.
 
 ---
 

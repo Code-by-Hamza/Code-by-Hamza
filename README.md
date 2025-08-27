@@ -7,9 +7,6 @@ Welcome to my GitHub profile! I'm a passionate self-taught Python developer, bui
 ### 💻 About Me
 
 - 🧠 Currently learning: **Python** and loving it!
-- 🚀 Building: CLI games, anime apps, logic puzzles
-- 🌱 Next up: file handling and eventually GUIs!
-- 💬 Ask me about: Python basics, string formatting, creative console ideas!
 
 ---
 
@@ -21,16 +18,6 @@ Welcome to my GitHub profile! I'm a passionate self-taught Python developer, bui
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
-
-### 📂 Featured Projects
-
-#### 🎮 Anime Word Guess Game
-
-> A fun hangman-style Python game that picks a random anime character and gives you lives to guess letter by letter. Includes lives system, guessed letter tracking, and replay!
-
-![black-terminal](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
 

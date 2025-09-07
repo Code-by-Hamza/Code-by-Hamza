@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a passionate self-taught Python developer, bui
 ### 💻 About Me
 
 - 🧠 Currently learning: **Python** and loving it!
-- 🔭 I’m currently working on the Project:  Expense Tracker
+- 💻 Building projects in Python (Expense Tracker, CSV Cleaner, ...)
+- 🎓 Student | Python Learner
 - 👨‍💻 All of my projects are available at https://github.com/Code-by-Hamza
   
 ---

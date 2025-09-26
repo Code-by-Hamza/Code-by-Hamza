@@ -13,7 +13,8 @@ Currently mastering **Python, Pandas, and Machine Learning** with the goal of be
 - 🐍 Python (Pandas, NumPy, Matplotlib)  
 - 🤖 Machine Learning (scikit-learn, PyTorch – learning in progress)  
 - 🗄️ Data Cleaning & Automation (CSV, Excel)  
-- 🛠️ Git & GitHub  
+- 🛠️ Git & GitHub
+- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 
 ---
 
@@ -28,12 +29,6 @@ Currently mastering **Python, Pandas, and Machine Learning** with the goal of be
 - Data Science fundamentals (NumPy, Matplotlib)  
 - Machine Learning models with scikit-learn  
 - Open-source contributions  
-
----
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-by-Hamza&layout=compact&theme=tokyonight)  
 
 ---
 

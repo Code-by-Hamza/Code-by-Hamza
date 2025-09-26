@@ -1,35 +1,47 @@
-# 👋 Hey there, I'm Hamza!
-
-Welcome to my GitHub profile! I'm a passionate self-taught Python developer, building fun and creative projects.
-
----
-
-### 💻 About Me
-
-- 🧠 Currently learning: **Python** and loving it!
-- 💻 Building projects in Python (Expense Tracker, CSV Cleaner, ...)
-- 🎓 Student | Python Learner
-- 👨‍💻 All of my projects are available at https://github.com/Code-by-Hamza
-  
----
-### 📫 Reach Me
-
-- 📧 Email: code.by.hamzaa@gmail.com
-
----
-### 🛠️ Tech I Use
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-### ⚡ Fun Fact
-> I built my first real Python project — an anime-themed guessing game — **just 3 days after learning Python**. More coming soon! 🚀
+# 👋 Hi, I'm Hamza  
+**AI/ML Enthusiast | Python Developer | BSCS Student**
 
 ---
 
+## 🚀 About Me  
+I'm a Computer Science student passionate about **AI/ML, data automation, and building smart tools**.  
+Currently mastering **Python, Pandas, and Machine Learning** with the goal of becoming a freelance AI developer and landing an ML role after graduation.  
 
-Thanks for visiting — and don't forget to ⭐ some of my projects if you like them!
+---
+
+## ⚡ Tech Stack  
+- 🐍 Python (Pandas, NumPy, Matplotlib)  
+- 🤖 Machine Learning (scikit-learn, PyTorch – learning in progress)  
+- 🗄️ Data Cleaning & Automation (CSV, Excel)  
+- 🛠️ Git & GitHub  
+
+---
+
+## 📂 Projects  
+- [Expense Tracker](https://github.com/Code-by-Hamza/expense-tracker) – CLI tool to manage daily expenses  
+- [CSV Cleaner](https://github.com/Code-by-Hamza/CSV-Cleaners) – Automated CSV/Excel cleaners for freelancers  
+- [File Automation Tool](https://github.com/Code-by-Hamza/File-Automation-Tool) – Smart file handler using Python  
+
+---
+
+## 📚 Currently Learning  
+- Data Science fundamentals (NumPy, Matplotlib)  
+- Machine Learning models with scikit-learn  
+- Open-source contributions  
+
+---
+
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-by-Hamza&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect With Me  
+- GitHub: [@Code-by-Hamza](https://github.com/Code-by-Hamza)
+- Email: code.by.hamzaa@gmail.com
+- LinkedIn: *coming soon*  
+
+---
+
+⭐️ *"Keep grinding. The code won’t write itself."*  

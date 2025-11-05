@@ -19,6 +19,7 @@ Currently mastering **Python, Pandas, and Machine Learning** with the goal of be
 ---
 
 ## 📂 Projects  
+- [SpotiSync](https://github.com/Code-by-Hamza/SpotiSync) – Music downloader app with beautiful gui (Supports spotify)  
 - [Expense Tracker](https://github.com/Code-by-Hamza/expense-tracker) – CLI tool to manage daily expenses  
 - [CSV Cleaner](https://github.com/Code-by-Hamza/CSV-Cleaners) – Automated CSV/Excel cleaners for freelancers  
 - [File Automation Tool](https://github.com/Code-by-Hamza/File-Automation-Tool) – Smart file handler using Python  

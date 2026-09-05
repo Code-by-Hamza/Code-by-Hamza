@@ -1,20 +1,23 @@
-# 👋 Hi, I'm Hamza  
-**AI/ML Enthusiast | Python Developer | BSCS Student**
+## 👋 Hi, I'm Hamza
+
+Aspiring Mobile App Developer | React Native Learner | BSCS Student
+
+##🚀 About Me
+
+I'm a Computer Science student passionate about building useful and modern applications.
+
+I'm currently focused on web development and JavaScript, with the goal of becoming a React Native mobile app developer. I'm building my programming foundation, working on projects, and learning the technologies needed to create real-world applications.
+
+My goal is to build a strong portfolio and start my career as a software developer.
 
 ---
 
-## 🚀 About Me  
-I'm a Computer Science student passionate about **AI/ML, data automation, and building smart tools**.  
-Currently mastering **Python, Pandas, and Machine Learning** with the goal of becoming a freelance AI developer and landing an ML role after graduation.  
-
----
-
-## ⚡ Tech Stack  
-- 🐍 Python (Pandas, NumPy, Matplotlib)  
-- 🤖 Machine Learning (scikit-learn, PyTorch – learning in progress)  
-- 🗄️ Data Cleaning & Automation (CSV, Excel)  
+## ⚡ Currently Learning
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- ⚛️ React
+- 📱 React Native
 - 🛠️ Git & GitHub
-- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 
 ---
 
@@ -22,14 +25,8 @@ Currently mastering **Python, Pandas, and Machine Learning** with the goal of be
 - [SpotiSync](https://github.com/Code-by-Hamza/SpotiSync) – Music downloader app with beautiful gui (Supports spotify)  
 - [Expense Tracker](https://github.com/Code-by-Hamza/expense-tracker) – CLI tool to manage daily expenses  
 - [CSV Cleaner](https://github.com/Code-by-Hamza/CSV-Cleaners) – Automated CSV/Excel cleaners for freelancers  
-- [File Automation Tool](https://github.com/Code-by-Hamza/File-Automation-Tool) – Smart file handler using Python  
-
----
-
-## 📚 Currently Learning  
-- Data Science fundamentals (NumPy, Matplotlib)  
-- Machine Learning models with scikit-learn  
-- Open-source contributions  
+- [File Automation Tool](https://github.com/Code-by-Hamza/File-Automation-Tool) – Smart file handler using Python
+- More projects coming soon...
 
 ---
 

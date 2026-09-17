@@ -33,7 +33,7 @@ My goal is to build a strong portfolio and start my career as a software develop
 ## 🌐 Connect With Me  
 - GitHub: [@Code-by-Hamza](https://github.com/Code-by-Hamza)
 - Email: code.by.hamzaa@gmail.com
-- LinkedIn: *coming soon*  
+- LinkedIn: [@Hamza Akhlaq](https://www.linkedin.com/in/code-by-hamza/)
 
 ---
 

@@ -1,36 +1,81 @@
-## 👋 Hi, I'm Hamza
+# 👋 Hi, I'm Hamza
 
-Aspiring Mobile App Developer | React Native Learner | BSCS Student
+### 📱 Aspiring Mobile App Developer | React Native | JavaScript | BSCS Student
 
-##🚀 About Me
+I'm a Computer Science student focused on becoming a **mobile app developer** with React Native.
 
-I'm a Computer Science student passionate about building useful and modern applications.
+I'm currently building my foundation in **JavaScript, web development, Git, APIs, and software development**, while working on projects to turn what I learn into practical experience.
 
-I'm currently focused on web development and JavaScript, with the goal of becoming a React Native mobile app developer. I'm building my programming foundation, working on projects, and learning the technologies needed to create real-world applications.
-
-My goal is to build a strong portfolio and start my career as a software developer.
+My goal is simple: **build useful software, become genuinely good at it, and build a strong portfolio along the way.**
 
 ---
 
-## ⚡ Currently Learning
-- 🌐 HTML & CSS
+## 🛠️ Tech Stack
+
+### Currently Working With
+
 - ⚡ JavaScript
-- ⚛️ React
-- 📱 React Native
+- 🌐 HTML & CSS
 - 🛠️ Git & GitHub
 
----
+### Learning & Exploring
 
-## 📂 Projects  
-- Portfolio worthy projects coming soon...
-
----
-
-## 🌐 Connect With Me  
-- GitHub: [@Code-by-Hamza](https://github.com/Code-by-Hamza)
-- Email: code.by.hamzaa@gmail.com
-- LinkedIn: [@Hamza Akhlaq](https://www.linkedin.com/in/code-by-hamza/)
+-  React
+-  React Native
+-  TypeScript
+-  APIs & Backend Integration
+-  Databases
 
 ---
 
-⭐️ *"Keep grinding. The code won’t write itself."*  
+## 🚀 Projects
+
+I'm currently building and improving projects while learning JavaScript and modern development workflows.
+
+### 🧪 Practice
+
+A collection of JavaScript projects and experiments built while strengthening my fundamentals.
+
+🔗 [View Repository](https://github.com/Code-by-Hamza/Practice)
+
+More portfolio projects coming as I progress toward React Native development.
+
+---
+
+## 🎯 Current Focus
+
+-  Strengthening JavaScript fundamentals
+-  Building projects instead of only following tutorials
+-  Learning React
+-  Moving into React Native development
+-  Learning APIs and backend integration
+-  Improving Git and software development practices
+
+---
+
+## 📈 My Goal
+
+I'm working toward becoming a **professional React Native developer** and building real-world applications that are useful, maintainable, and enjoyable to use.
+
+**Learn → Build → Improve → Repeat.**
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 GitHub: [@Code-by-Hamza](https://github.com/Code-by-Hamza)
+- 💼 LinkedIn: [Hamza Akhlaq](https://www.linkedin.com/in/code-by-hamza/)
+- 📧 Email: code.by.hamzaa@gmail.com
+
+---
+
+## 📊 Coding Activity
+<a href="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&theme=light">
+    </picture>
+</a>
+
+
+> ⭐ *"Keep grinding. The code won't write itself."*

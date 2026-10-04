@@ -70,11 +70,8 @@ I'm working toward becoming a **professional React Native developer** and buildi
 ---
 
 ## 📊 Coding Activity
-<a href="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&standalone=true" title="Click to view detailed data for each day!">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&theme=dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&theme=light">
-    </picture>
+<a href="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&theme=dark&standalone=true" title="Click to view detailed data for each day!">
+    <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=70375&timezone=Asia%2FKarachi&labels=true&theme=dark">
 </a>
 
 
